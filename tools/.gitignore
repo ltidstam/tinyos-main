@@ -65,3 +65,7 @@ platforms/msp430/cppbsl/src/.deps/
 platforms/msp430/cppbsl/stamp-h1
 platforms/msp430/cppbsl/src/cppbsl
 
+# JNI
+tinyos/java/serial/libtoscomm.jnilib
+tinyos/java/env/libgetenv.jnilib
+
